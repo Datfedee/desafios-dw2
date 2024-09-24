@@ -1,0 +1,31 @@
+body{
+    background-color: skyblue;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+body h1{
+    text-align: center;
+}
+
+.fila-desafíos{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    flex-direction: column;
+}
+
+.diseño{
+    background-color: beige;
+    margin: 10px;
+    width: 30%;
+    border-radius: 10px;
+    font-size: large;
+    position: relative;
+    transition: transform 0.3s ease-in-out;
+}
+
+.diseño:hover {
+    transform: translatex(20px);
+}

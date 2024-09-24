@@ -1,0 +1,18 @@
+body{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    flex-direction: column;
+}
+
+img{
+    width: 50%;
+    height: 50%;
+}
+
+div{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    flex-direction: column;
+}
