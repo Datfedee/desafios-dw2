@@ -1,0 +1,27 @@
+body{
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    font-size: larger;
+    align-items: center;
+}
+
+div{
+    background-color: rgb(10, 222, 222);
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    flex-direction: column;
+    width: 50%;
+}
+
+li{
+    margin: 20px;
+}
+
+a{
+    margin-top: 50px;
+}
