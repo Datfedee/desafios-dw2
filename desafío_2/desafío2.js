@@ -6,4 +6,4 @@ cantidad = prompt ("¿cuantos videojuegos desea comprar?")
 
 let preciofinal = precioUnitario * cantidad;
 
-alert ("el costo total de su compra es de $" + preciofinal)
+alert ("el costo total de su compra es de $" + preciofinal) 
